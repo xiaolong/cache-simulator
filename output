@@ -1,0 +1,13 @@
+INPUT FILE SUCCESSFULLY LOADED 
+--------------STATISTICS---------------
+access_count:8 (read_count:5, write_count:3)
+cycles_with_cache: 88 
+cycles_without_cache: 160
+stream_in_count: 4
+stream_out_count: 0
+replacement_count: 0
+miss_count: 4
+hit_count: 4 (read_hit: 3, write_hit: 1)
+write_back_count: 0
+HIT RATE : 0.500000 
+-----------------END-----------------
